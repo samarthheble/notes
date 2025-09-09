@@ -585,7 +585,7 @@ How does the internet work?`;
           
           <div className="bg-gray-50 px-6 py-4 text-center border-t border-gray-100">
             <p className="text-gray-600 text-sm">
-              Powered by Groq AI & LLaMA 3 • Made with <span className="text-red-500 animate-pulse inline-block"><FaHeart /></span> for students and professionals
+              Powered by samarth heble • Made with <span className="text-red-500 animate-pulse inline-block"><FaHeart /></span> for students and professionals
             </p>
           </div>
         </div>
