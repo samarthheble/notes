@@ -29,14 +29,22 @@ A beautiful, responsive web application that transforms your questions into deta
 ## 📂 Project Structure
 
 AI-Notes-Generator/
-- │── src/
-- │ ├── components/
-- │ │ └── NotesGenerator.jsx # Main component
-- │ ├── App.jsx # App entry
-- │ └── main.jsx # React DOM render
-- │── public/ # Static assets
-- │── package.json
-- │── README.md
+
+│── src/
+
+│ ├── components/
+
+│ │ └── NotesGenerator.jsx # Main component
+
+│ ├── App.jsx # App entry
+
+│ └── main.jsx # React DOM render
+
+│── public/ # Static assets
+
+│── package.json
+
+│── README.md
 
 ## 🚀 Live Demo
 
